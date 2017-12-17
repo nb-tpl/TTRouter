@@ -7,9 +7,8 @@
 //
 
 #import <Foundation/Foundation.h>
+
 #import <UIKit/UIKit.h>
-
-
 typedef NS_ENUM(NSUInteger, TTRedirectType) {
     TTRedirectTypePresent = 0,//present跳转
     TTRedirectTypeNavi//navi跳转
